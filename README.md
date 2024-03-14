@@ -28,8 +28,8 @@ Adventure Gear Co. is a fictional company that offers a wide range of adventure 
 To run the Adventure Gear Co. website locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/your-username/adventure-gear-co.git
+   ```[
+   git clone (https://github.com/Atharv4589/Adventure-Gear-Co..git)
    ```
 
 2. Navigate to the project directory:
